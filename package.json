@@ -1,5 +1,5 @@
 {
-  "name": "jettycode_suda",
+  "name": "jetty_suda",
   "version": "0.0.1",
   "workspaces": [
     "packages/amis-formula",
